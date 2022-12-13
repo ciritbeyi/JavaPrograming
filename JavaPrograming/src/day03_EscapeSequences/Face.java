@@ -1,0 +1,22 @@
+package day03_EscapeSequences;
+
+public class Face {
+    public static void main(String[] args) {
+        System.out.println(" +''''''''''+");
+        System.out.println("[|   O   O  |]");
+        System.out.println(" |     ^    |");
+        System.out.println(" |    '_'   |");
+        System.out.println(" +----------+");
+
+
+    }
+
+}
+
+/*
+1. Create a class called Face.java
+2. Write a code to print the following output in the
+console
+Pic is in day03 pdf
+
+ */
